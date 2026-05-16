@@ -12,7 +12,7 @@ This project shows two real-world `LazyVGrid` patterns in SwiftUI: a sectioned t
 - **Lazy rendering** — cells are created only as they scroll into view, keeping memory usage low even with large data sets
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/subP67bO3Ic)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
 
@@ -52,4 +52,4 @@ Change `com.yourname.LazyVGrid-SwiftUI` to a unique reverse-domain identifier be
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/subP67bO3Ic)
